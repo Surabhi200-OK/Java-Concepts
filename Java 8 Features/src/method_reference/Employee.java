@@ -1,3 +1,5 @@
+package method_reference;
+
 public class Employee {
 
     int id;

@@ -1,4 +1,4 @@
-package types;
+package method_reference.types;
 
 import java.util.function.Supplier;
 
