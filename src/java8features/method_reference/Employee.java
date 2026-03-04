@@ -1,4 +1,4 @@
-package method_reference;
+package java8features.method_reference;
 
 public class Employee {
 

@@ -1,4 +1,4 @@
-package method_reference;
+package java8features.method_reference;
 
 import java.util.Arrays;
 import java.util.List;
